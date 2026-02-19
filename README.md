@@ -57,3 +57,4 @@ El proyecto sigue una estructura de **Programación Orientada a Objetos (POO)** 
 
 1.  **Añadir Vértices**: Escribe las coordenadas $X, Y$ y presiona **Añadir Vértice** (o haz clic directamente en el plano).
 2.  **Cerrar Polígono**: Presiona el botón **Cerrar Polígono** para
+3.  **Comprobar punto**: Ubica un punto en el plano clicando sobre la ventana, para comprobar si está dentro o fuera del área
